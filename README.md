@@ -1,2 +1,2 @@
 # PYTHON-GUI-Tkinter-
-Hi , so this is my repository for all my GUI works. This repository includes forms, management system, login pages. 
+Hi , So This Is My Repository For All My GUI Works. This Repository Includes Forms, Management System, Login Pages. 
