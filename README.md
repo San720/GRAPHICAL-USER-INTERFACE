@@ -1,4 +1,4 @@
-## Hi, So This Is My Repository For All My GUI Works. This Repository Includes :-
+## This Is My Repository For All My GUI Works. This Repository Includes :-
 1. Forms. 
 2. Management Systems.
 3. Frameworks. 
